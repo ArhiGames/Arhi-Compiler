@@ -1,0 +1,9 @@
+define equals(x: int64, y: int64) -> boolean
+{
+	return x == y;
+}
+
+define main()
+{
+	local i: int32[] = { 12, 24, 36, 48, 60 };
+}
